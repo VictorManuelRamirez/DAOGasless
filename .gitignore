@@ -1,0 +1,11 @@
+# Foundry
+sc/cache/
+sc/out/
+sc/broadcast/
+
+# Env
+.env
+sc/.env
+
+# OS
+.DS_Store
