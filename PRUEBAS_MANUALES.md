@@ -13,6 +13,7 @@ Pasos para validar la aplicación en **local (Anvil + MetaMask + Next.js)**. Est
 
 ---
 
+
 ## 1. Preparar el entorno
 
 ### Terminal 1 — Anvil
